@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+.bottom {
+	bottom: 0;
+	margin-bottom: 0;
+/* 	width: 100%;
+	background-color: #222;
+	color: #EBEBEB;
+	clear: both;
+	text-align: centre; */
+}
+.red {
+	color: red;
+}
+.textarea {
+	resize:vertical;
+}
